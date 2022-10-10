@@ -1,0 +1,74 @@
+#bandeau{
+    font-size: 20px;
+    background-color: rgb(77, 158, 212);
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+}
+
+#corps{
+    height: 500px;
+}
+
+#menu{
+    float: left;
+    height: 100%;
+    width: 35%;
+    background-color: rgb(0, 0, 0);
+}
+#menuhaut{
+    float: left;
+    height: 50%;
+    font-size: 30px;
+
+    background-color: rgb(37, 236, 203);
+    text-align: center;
+    width: 100%;
+    line-height: 250px;
+
+}
+#menubas{
+    float: left;
+    height: 50%;
+    font-size: 30px;
+    background-color: rgb(229, 37, 236);
+    text-align: center;
+    width: 100%;
+    line-height: 250px;
+
+}
+
+#contenu{
+    float: left;
+    font-size: 30px;
+    height: 100%;
+    width: 65%;
+    background-color: rgb(233, 236, 37);
+    text-align: center;
+    vertical-align: middle;
+}
+
+#bloc{
+    float: right;
+    position: static;
+    font-size: 30px;
+    height: 20%;
+    width: 20%;
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    line-height: 45px;
+
+}
+
+#PiedDePage{
+    font-size: 30px;
+    height: 30px;
+    background-color: rgb(37, 236, 97);
+    text-align: center;
+    line-height: 30px;
+
+}
+
+#para{
+    font-size: 25px;
+}
